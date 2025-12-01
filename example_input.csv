@@ -1,0 +1,6 @@
+year,km_driven,mileage,engine,max_power,fuel,seller_type,transmission,owner,seats
+2015,50000,19.0,1200,80.0,Petrol,Individual,Manual,First Owner,5
+2018,30000,21.5,1500,110.0,Diesel,Dealer,Automatic,First Owner,5
+2012,80000,18.0,1000,65.0,Petrol,Individual,Manual,Second Owner,5
+2020,15000,23.0,1200,90.0,Petrol,Trustmark Dealer,Manual,First Owner,5
+
